@@ -12,4 +12,4 @@ Supports iOS 9 and above. Xcode 9.2 is required to build the latest code written
 
 ## Preview
 
-![preview image](https://s17.postimg.org/n5376bd5r/IMG_2252.png)
+![image-1](https://user-images.githubusercontent.com/2278222/47207008-2e00dc00-d39b-11e8-9ec6-8c2ff0765022.jpg)
